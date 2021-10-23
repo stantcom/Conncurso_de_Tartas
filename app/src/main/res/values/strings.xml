@@ -11,5 +11,5 @@
     <string name="old_contest_name">Put the old Contest ID</string>
     <string name="registration_completed">Registration Completed</string>
     <string name="make_sure_you_are_older_18">Make sure you\'re +18</string>
-    <string name="make_sure_your_data_is_not_empty">Make sure your personal info is fulfilled</string>
+    <string name="make_sure_your_data_is_not_empty">Make sure your personal info is fulfilled correctly!</string>
 </resources>
