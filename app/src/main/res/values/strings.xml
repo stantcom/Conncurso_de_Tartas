@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Conncurso_de_Tartas</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="have_you_participated_in_another_contest">Have you participated in another contest?</string>
+    <string name="name_of_the_contest">Name of the contest</string>
+    <string name="submit">Submit</string>
+    <string name="old_contest_name">Put the old Contest ID</string>
+    <string name="registration_completed">Registration Completed</string>
+    <string name="make_sure_you_are_older_18">Make sure you\'re +18</string>
+    <string name="make_sure_your_data_is_not_empty">Make sure your personal info is fulfilled correctly!</string>
 </resources>
